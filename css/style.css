@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.jumbotron {
+    height: 95vh;
+    background-image: url(../img/bg-img.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #f2f2f2;
+}
+
+.list-group {
+    text-align: center;
+    list-style: none;
+}
+
+.product {
+    margin-top: 100px;
+}
+
+.container>p>a {
+    color: #08d9d6;
+}
+
+.container>h2 {
+    margin: 20px 0;
+    color: purple;
+    text-align: center;
+}
+
+.card-text {
+    color: purple;
+}
+
+.card-header {
+    font-size: 30px;
+    color: purple;
+}
+
+.about {
+    background-color: #E9ECEF;
+}
